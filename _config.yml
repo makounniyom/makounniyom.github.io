@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: "Post - Bachelor of Arts in CSCI"
+title: "CSCI und Deutsch Explorations"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
@@ -16,15 +16,15 @@ slogan: "A portfolio of things."
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes."
+description: "This webpage is to explore ideas and concepts for Computer Science and German. The pursuit of knowledge and betterment."
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: kounniyom
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io/feeling-responsive'
+url: 'https://makounniyom.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
