@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Info"
-subheadline: "About Your Project"
+subheadline: "About This Site"
 teaser: ""
 permalink: /info/
 ---
+Insert here?
