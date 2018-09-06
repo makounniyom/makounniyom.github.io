@@ -11,15 +11,6 @@ categories:
 tags:
   - woo!
   - finished
-#
-# Styling
-#
-#image:
-#  header: ""
-#  thumb: "you-can-delete-me-thumb.png"
-#  homepage: "you-can-delete-me-homepage.png"
-#  caption: "Caption?"
-#  url: "http://phlow.de/"
 ---
 
 Hello World. This will be my first blog post on this site, I believe I have completed all of the basics when it comes to programming this site. I just have to change some logos (maybe?) and start writing blog posts.
