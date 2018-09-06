@@ -7,9 +7,9 @@ teaser: ""
 permalink: "/contact/"
 ---
 
-- [Wufoo][1]
-- [Google Forms][2]
+- [University Email][1]
+- [Personal GMAIL][2]
 
 
- [1]: http://www.wufoo.com/
- [2]: https://www.google.com/intl/de_de/forms/about/
+ [1]: mailto:makounniyom@csbsju.edu
+ [2]: mailto:matthew.kounniyom@gmail.com
