@@ -7,9 +7,7 @@ subheadline: "Programming"
 title: "SuperCollider"
 teaser: "I am going to learn a new Audio Programming language/environment."
 categories:
-  - Audio
   - Programming
-  - SuperCollider
 tags:
   - decisions
 ---

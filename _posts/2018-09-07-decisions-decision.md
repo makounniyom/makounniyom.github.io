@@ -7,7 +7,6 @@ subheadline: "Decisions"
 title: "Das Nibelungenlied oder Faust"
 teaser: "I have decided."
 categories:
-  - reading
   - Deutsch
 tags:
   - decisions

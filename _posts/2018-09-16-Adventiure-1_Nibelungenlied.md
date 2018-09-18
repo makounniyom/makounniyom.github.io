@@ -7,7 +7,6 @@ subheadline: "Deutsch"
 title: "Adventiure 1"
 teaser: "A brief summary of adventiure 1 from Das Nibelungenlied."
 categories:
-  - Reading
   - Deutsch
 tags:
   - Nibelungenlied
@@ -24,7 +23,7 @@ She cares for her 3 elegant, mighty, heroic brothers. Gunther, Gernot and Giselh
 
 Kriemhild then dreams of a beautiful falcon, whom she raised to be strong and wild. Yet, it is torn apart by two eagles. Whom her mother Üte warned her that it meant she would lose a most noble man. Kriemhild then rebels at this thought of a man. She wants to never be "damit ich niemals durch die Liebe zu einem Mann Leid erfahre." To never suffer the love of a man, to keep her beauty. However, despite all of this. She eventually will marry an elegant man, whom she will lose and then man shall feel her wrath.
 
-This chapter sets the tone of the rest of the book. It tells of the characters and the tragedy that will come. The first time I read this, my Professor highlighted this last bit. This made me sit in suspense as the man of glory came into view, getting to know him, until his untimely death. 
+This chapter sets the tone of the rest of the book. It tells of the characters and the tragedy that will come. The first time I read this, my Professor highlighted this last bit. This made me sit in suspense as the man of glory came into view, getting to know him, until his untimely death.
 
 schluss machend
 
