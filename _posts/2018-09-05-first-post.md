@@ -7,7 +7,7 @@ subheadline: "First Post"
 title: "Finally finished"
 teaser: "Finished the basics of my website."
 categories:
-  - congrats
+  - Update
 tags:
   - woo!
   - finished
